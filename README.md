@@ -13,9 +13,9 @@ Data Manipulation: `pandas`, `numpy`
 Data Visualization: `matplotlib`, `seaborn`
 ---
 📈 Key Findings & Business Insights
-Top Revenue Driver: Electronics dominate total sales, generating more than 40% of overall company revenue due to higher average unit prices.
+Top Revenue Driver: Electronics dominate total sales, generating more than % of overall company revenue due to higher average unit prices.
 Stable Demand: Apparel and Home & Kitchen maintain steady transaction volumes consistently across quarters.
-Customer Concentration: The top 5 highest-value customers account for a significant share of repeat purchase value, indicating strong targets for loyalty reward programs.
+Customer Concentration: The top 5 highest-value customers account for 16.6% of revenue, indicating strong targets for loyalty reward programs.
 ---
 
 ⚙️ How to Run Locally
