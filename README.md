@@ -1,4 +1,4 @@
-E-Commerce Sales & Customer Insights Analysis
+**E-Commerce Sales & Customer Insights Analysis
 A compact, end-to-end data analysis project in Python designed to evaluate synthetic e-commerce transaction data, uncover top revenue drivers, analyze monthly demand trends, and identify high-value customers.
 ---
 📊 Project Overview
@@ -33,3 +33,4 @@ pip install -r requirements.txt
 python analysis.py
 ```
 ---
+**
